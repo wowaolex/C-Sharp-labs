@@ -10,15 +10,12 @@ namespace lab2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter the size of the field");
             int size = int.Parse(Console.ReadLine());
             Field field = Field.getInstance(size);
             field.GetField();
-            //string[,] myField = field.SortArr(newField);
-           
-            //Console.ReadKey();
 
             field.ShowField();
-
 
             while (true)
             {
