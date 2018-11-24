@@ -1,0 +1,14 @@
+C:/Users/Bob/source/repos/lab2/lab2/obj/Debug/lab2.csprojAssemblyReference.cache
+C:/Users/Bob/source/repos/lab2/lab2/obj/Debug/lab2.csproj.CoreCompileInputs.cache
+C:/Users/Bob/source/repos/lab2/lab2/bin/Debug/lab2.exe.config
+C:/Users/Bob/source/repos/lab2/lab2/bin/Debug/lab2.exe
+C:/Users/Bob/source/repos/lab2/lab2/bin/Debug/lab2.pdb
+C:/Users/Bob/source/repos/lab2/lab2/obj/Debug/lab2.exe
+C:/Users/Bob/source/repos/lab2/lab2/obj/Debug/lab2.pdb
+/Users/wowaolex/Downloads/Telegram Desktop/lab2-1/lab2/bin/Debug/lab2.exe.config
+/Users/wowaolex/Downloads/Telegram Desktop/lab2-1/lab2/bin/Debug/lab2.exe
+/Users/wowaolex/Downloads/Telegram Desktop/lab2-1/lab2/bin/Debug/lab2.pdb
+/Users/wowaolex/Downloads/Telegram Desktop/lab2-1/lab2/obj/Debug/lab2.csprojAssemblyReference.cache
+/Users/wowaolex/Downloads/Telegram Desktop/lab2-1/lab2/obj/Debug/lab2.csproj.CoreCompileInputs.cache
+/Users/wowaolex/Downloads/Telegram Desktop/lab2-1/lab2/obj/Debug/lab2.exe
+/Users/wowaolex/Downloads/Telegram Desktop/lab2-1/lab2/obj/Debug/lab2.pdb

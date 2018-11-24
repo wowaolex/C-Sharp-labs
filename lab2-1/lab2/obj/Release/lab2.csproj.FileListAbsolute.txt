@@ -1,0 +1,5 @@
+/Users/wowaolex/Downloads/Telegram Desktop/lab2-1/lab2/bin/Release/lab2.exe.config
+/Users/wowaolex/Downloads/Telegram Desktop/lab2-1/lab2/bin/Release/lab2.exe
+/Users/wowaolex/Downloads/Telegram Desktop/lab2-1/lab2/obj/Release/lab2.csproj.CoreCompileInputs.cache
+/Users/wowaolex/Downloads/Telegram Desktop/lab2-1/lab2/obj/Release/lab2.exe
+/Users/wowaolex/Downloads/Telegram Desktop/lab2-1/lab2/obj/Release/lab2.csprojAssemblyReference.cache
